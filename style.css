@@ -56,6 +56,14 @@ h2 {
   font-size: 14px;
 }
 
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
 a {
   color: #0a2540;
   text-decoration: none;
